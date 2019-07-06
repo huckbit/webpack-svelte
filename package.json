@@ -1,0 +1,38 @@
+{
+  "name": "es6-tutorial-data",
+  "version": "1.0.0",
+  "description": "Webpack configuration to compile js ans css",
+  "main": "index.js",
+  "author": "Massimiliano Ranauro <huckbit@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huckbit/webpack-js-css"
+  },
+  "dependencies": {
+    "svelte": "^3.6.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
+    "autoprefixer": "^9.6.1",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^3.0.0",
+    "eslint": "^6.0.1",
+    "mini-css-extract-plugin": "^0.7.0",
+    "node-sass": "^4.12.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "postcss-loader": "^3.0.0",
+    "postcss-preset-env": "^6.6.0",
+    "sass-loader": "^7.1.0",
+    "svelte-loader": "^2.13.4",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  },
+  "scripts": {
+    "webpack": "webpack --config webpack.config.js"
+  }
+}
