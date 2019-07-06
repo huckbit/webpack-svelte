@@ -1,4 +1,4 @@
-# Webpack ES6 and Sass compiler
+# Webpack ES6 Svelte and Sass compiler
 Use this config as a starter point to compile Javascript ES6 and Sass using webpack. 
 In this configuration, webpack compiles sass in a separate css file with `Autoprefixer` and `source map`.
 
