@@ -10,7 +10,7 @@
     "url": "https://github.com/huckbit/webpack-js-css"
   },
   "dependencies": {
-    "svelte": "^3.6.4"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.0",
